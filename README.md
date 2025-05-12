@@ -1,2 +1,5 @@
 # DITA-Sample
-DITA(XML) sample 
+DITA(XM) sample
+- Go to GitHub Wiki tab.
+
+
